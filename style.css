@@ -1,0 +1,162 @@
+/*W3hubs.com - Download Free Responsive Website Layout Templates designed on HTML5 CSS3,
+Bootstrap which are 100% Mobile friendly. w3Hubs all Layouts are responsive cross 
+browser supported, best quality world class designs.*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:300i,400,500,700');
+body{
+padding: 0;
+margin: 0;
+font-family: 'Roboto', sans-serif;
+background: #ecf0f3;
+}
+a:-webkit-any-link:focus-visible {
+outline: none;
+}
+h1{
+text-align: center;
+padding-top: 40px;
+font-family: 'Roboto', sans-serif;
+text-transform: capitalize;
+margin: 0px;
+}
+.container{
+margin: 20px auto;	
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+}
+.fa{
+padding: 18px;
+font-size: 26px;
+margin: 10px;
+width: 25px;
+height: 25px;
+box-shadow: 3px 3px 6px #b8b9be, -3px -3px 9px #fff;
+border-color: #ced4da !important;
+background: #ecf0f3;
+text-align: center;
+border-radius: 50%;
+transition: .9s;
+}
+.fa:hover{
+transform: scale(1.3);
+transition: .6s;
+}
+.fa-facebook{
+color: #425f9c;
+}
+.fa-twitter{
+color: #1da1f2;
+}
+.fa-instagram{
+color: #3f729b;
+}
+.fa-yahoo{
+color: #400191
+}
+.fa-linkedin{
+color: #0b96e5;
+}
+.fa-reddit{
+color: #ff6a33;
+}
+.fa-youtube{
+color: #E52D26;
+}
+.fa-google-plus{
+color: #e47365;
+}
+.fa-behance{
+color: #1769ff;
+}
+.fa-flickr{
+color: #0063dc;
+}
+.fa-github-alt{
+color: #4183c4;
+}
+.fa-skype{
+color: #24c4ff;
+}
+.fa-stack-overflow{
+color: #fe7a15;
+}
+.fa-tumblr{
+color: #35465c;
+}
+.fa-bitbucket{
+color: #205081;
+}
+.fa-dropbox{
+color: #007ee5;
+}
+.fa-foursquare{
+color: #ef4b78;
+}
+.fa-jsfiddle{
+color: #4679bd;
+}
+.fa-dribbble{
+color: #ea4c89;
+}
+.fa-digg{
+color: #000;
+}
+.fa-deviantart{
+color: #4e6252;
+}
+.fa-codepen{
+color: #76daff;
+}
+.fa-lastfm{
+color: #e31b23;
+}
+.fa-paypal{
+color: #253b80;
+}
+.fa-pinterest{
+color: #cc2127;
+}
+.fa-soundcloud{
+color: #f80;
+}
+.fa-steam{
+color: #7da10e;
+}
+.fa-stumbleupon{
+color: #eb4924;
+}
+.fa-trello{
+color: #256a92;
+}
+.fa-twitch{
+color: #6441a5;
+}
+.fa-vimeo-square{
+color: #1ab7ea;
+}
+.fa-vine{
+color: #00b488;
+}
+.fa-vk{
+color: #45668e;
+}
+.fa-wechat{
+color: #98d11c;
+}
+.fa-wordpress{
+color: #21759b;
+}
+.fa-xing{
+color: #026466;
+}
+.fa-yelp{
+color:#af0606; 
+}
+.on-hover .fa{
+box-shadow: none;
+transform: scale(1.1);
+}
+.on-hover .fa:hover{
+box-shadow: 3px 3px 6px #b8b9be, -3px -3px 9px #fff;
+}
